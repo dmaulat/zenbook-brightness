@@ -41,7 +41,7 @@ Decrease brightness:
 
 ## Adaptation
 
-Fell free to change the value `STEP` in the script. On my Zenbook LA303, the brightness values range from 0 to 928. 
+Fell free to change the value `STEP` in the script. On my Zenbook LA303, the brightness values range from 0 to 937. 
 
 ## Inspiration
 
